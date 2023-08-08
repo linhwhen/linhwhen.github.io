@@ -6,5 +6,5 @@ pinned: true
 order: 1
 ---
 
-<h1 style="color: #cc0000">For remote and extreme outdoor recreation, how can we can we design systems that account for neurodiversity?</h1> 
+<h1 style="color: #cc0000">For remote and extreme outdoor recreation, how can we can we design systems that support neurodiversity?</h1> 
 
