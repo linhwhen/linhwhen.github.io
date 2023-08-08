@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1 style="color: ##00695c;"><b>about</b></h1>
+<h1 style="color: ##00695c;">about</h1>
 
 Hi! I am a localization product manager based in Brooklyn, NY. Previously, I studied computer science at The University of Texas at Austin.
 
