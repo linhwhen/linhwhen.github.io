@@ -8,7 +8,7 @@ Hi! I am a localization product manager based in Brooklyn, NY. Previously, I stu
 
 My research interests include building ethical design systems for marginalized groups.
 
-I also spend my time climbing, writing, and illustrating.
+I enjoy climbing, writing, and illustration in my free time.
 
 This website holds my portfolio of creative work as well as a blog for smaller projects, research, and essays. 
 
