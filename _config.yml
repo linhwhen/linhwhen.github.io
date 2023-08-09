@@ -1,9 +1,9 @@
-title: Linh Nguyen ; Victoria
-navbar_title: linh nguyen ; victoria
+title: Linh Nguyen
+navbar_title: victoria nguyen ; linh
 
 author:
-  name: Linh Nguyen ; Victoria # Your name
-  email: your-email@domain.com
+  name: Victoria Nguyen ; Linh # Your name
+  email: tophlinh@gmail.com
 
 description: Jekyll academic is a lightweight theme for any academic usecase. Perfect for portfolio websites, blogs, and academia # description of your site
 
@@ -17,7 +17,7 @@ jekyllacademic:
   contentlicense: "MIT" # Choose either one of these to put: MIT, Commons Clause, CC BY 4.0, CC BY-NC 4.0, CC BY-ND 4.0, CC BY-NC-ND 4.0, CC BY-NC-SA 4.0, CC BY-NC-SA 4.0, CC BY-SA 4.0
   socials:
     twitter: twitter # Your twitter username
-    github: linhwhen.github.io # Your github username
+    github: linhwhen # Your github username
     linkedin: unavailable # Your linkedin
     keybase: keybase # Your keybase
 
