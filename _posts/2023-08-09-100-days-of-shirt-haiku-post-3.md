@@ -36,4 +36,9 @@ title: 100 days of shirt haiku
     <td>people are subsets<br>disjoints, inclusions, we love<br>what cannot change, we love</td>
     <td>2023-08-12</td>
   </tr>
+ <tr>
+    <td>in practice</td>
+    <td>no expectations<br>love requires practice<br>myself, then others</td>
+    <td>2023-08-12</td>
+  </tr>
 </table>
