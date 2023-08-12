@@ -31,4 +31,9 @@ title: 100 days of shirt haiku
     <td>the boundary is<br>unknown: to not ever know again<br>thank you and, goodbye</td>
     <td>2023-08-11</td>
   </tr>
+  <tr>
+    <td>subsets of another</td>
+    <td>people are subsets<br>disjoints, inclusions, we love<br>what cannot change, we love</td>
+    <td>2023-08-12</td>
+  </tr>
 </table>
