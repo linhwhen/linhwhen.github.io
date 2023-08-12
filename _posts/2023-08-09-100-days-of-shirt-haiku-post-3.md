@@ -38,7 +38,7 @@ title: 100 days of shirt haiku
   </tr>
  <tr>
     <td>in practice</td>
-    <td>no expectations<br>love requires practice<br>myself, then others</td>
+    <td>no expectations<br>loving requires practice<br>myself, then others</td>
     <td>2023-08-12</td>
   </tr>
 </table>
