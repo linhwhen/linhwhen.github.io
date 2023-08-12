@@ -23,7 +23,7 @@ title: 100 days of shirt haiku
   </tr>
   <tr>
     <td>ida</td>
-    <td>i like you and appreciate<br>your tried and true uplifts all<br>to repay in kind</td>
+    <td>i appreciate<br>your tried and true uplifts all<br>to repay in kind</td>
     <td>2023-08-09</td>
   </tr>
   <tr>
