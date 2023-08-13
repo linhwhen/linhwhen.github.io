@@ -46,4 +46,9 @@ title: 100 days of shirt haiku
     <td>a calling yearns deep<br>to the life with least regrets<br>cheers, to therapy!</td>
     <td>2023-08-13</td>
   </tr>
+  <tr>
+    <td>the work</td>
+    <td>closets deep, we sort<br>a mirror onto oneself<br>all yet to be faced</td>
+    <td>2023-08-13</td>
+  </tr>
 </table>
