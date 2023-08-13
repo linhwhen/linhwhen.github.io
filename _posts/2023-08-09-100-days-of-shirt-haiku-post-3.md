@@ -41,4 +41,9 @@ title: 100 days of shirt haiku
     <td>no expectations<br>loving requires practice<br>myself, then others</td>
     <td>2023-08-12</td>
   </tr>
+  <tr>
+    <td>when breath becomes air</td>
+    <td>a calling yearns deep<br>to the life with least regrets<br>cheers, to therapy!</td>
+    <td>2023-08-12</td>
+  </tr>
 </table>
