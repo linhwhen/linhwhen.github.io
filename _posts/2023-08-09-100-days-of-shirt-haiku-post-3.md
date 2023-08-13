@@ -28,7 +28,7 @@ title: 100 days of shirt haiku
   </tr>
   <tr>
     <td>not knowing</td>
-    <td>the boundary is<br>unknown: to not ever know again<br>thank you and, goodbye</td>
+    <td>the boundary is<br>unknown: to not ever know<br>thank you and, goodbye</td>
     <td>2023-08-11</td>
   </tr>
   <tr>
