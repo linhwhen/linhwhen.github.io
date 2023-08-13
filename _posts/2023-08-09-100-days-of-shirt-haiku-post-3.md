@@ -33,7 +33,7 @@ title: 100 days of shirt haiku
   </tr>
   <tr>
     <td>subsets of another</td>
-    <td>people are subsets<br>disjoints, inclusions, we love<br>what cannot change, we love</td>
+    <td>people are subsets<br>disjoints, inclusions, we love<br>love what cannot change</td>
     <td>2023-08-12</td>
   </tr>
  <tr>
