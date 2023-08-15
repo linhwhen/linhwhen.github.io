@@ -51,4 +51,14 @@ title: 100 days of shirt haiku
     <td>closets deep, we sort<br>a mirror onto oneself<br>all yet to be faced</td>
     <td>2023-08-13</td>
   </tr>
+  <tr>
+    <td>pnw</td>
+    <td>creamy blue waters<br>walden is my calling<br>the version I sea</td>
+    <td>2023-08-15</td>
+  </tr>
+  <tr>
+    <td>pnw</td>
+    <td>creamy blue waters<br>walden is my calling<br>the version I sea(k)</td>
+    <td>2023-08-15</td>
+  </tr>
 </table>
